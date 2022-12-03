@@ -1,3 +1,13 @@
-this will be where we input our report!! :>>
+<!-- this will be where we input our report!! :>> -->
+
+# Remote Work Technologies: How they disrupt the current work environment #
 
 ## I. Introduction ##
+
+## II. Why Remote Work Tech can be considered disruptive ##
+
+## III. Illustrate what the current situation of work is ##
+
+## IV. Show how Remote Work Technologies disrupts the current situation ##
+
+## V. Conclusion ##
