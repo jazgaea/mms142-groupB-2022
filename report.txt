@@ -4,7 +4,22 @@
 
 ## I. Introduction ##
 ahjgdhjasgdhjkgjk 
-asdjkhhhjahdjad sjahkgdksgdjgsc 
+asdjkhhhjahdjad sjahkgdksgdjgsc
+
+<!-- Draft lang nman - Reine -->
+<p>
+
+Remote working, commonly known as work from home or telecommuting (Gartner, 2020), refers to “the practice of an employee working at their home, or in some other place that is not an organization’s usual place of business” (Cambridge Dictionary, 2022). In other words, it allows employees to work flexibly outside their organization to balance their life and career endeavors. It benefits both the employee and the company to achieve greater opportunities and satisfaction. Remote work can be “temporary or permanent, part-time or full-time, occasional or frequent” (Gartner, 2020), depending on the policies of the company. 
+
+The COVID-19 pandemic compelled many individuals to swiftly transition from a traditional face-to-face work environment to a wholly remote workforce. Majority of the population are greatly affected by this phenomenon to prevent the widespread of virus. Because of this occurrence in our lives, remote work changed the way people work, eventually creating a technological disruption. Our group decided to exemplify this topic on our report to tackle its relevance in our situation nowadays and why and how it can be considered disruptive. 
+
+Reference:
+Cambridge Dictionary. (2022, November 30). remote working. @CambridgeWords. https://dictionary.cambridge.org/us/dictionary/english/remote-working
+Definition of Remote Work - Gartner Information Technology Glossary. (2020). Gartner. https://www.gartner.com/en/information-technology/glossary/remote-work
+What is remote work? | VMware Glossary. (2022, November 30). VMware. https://www.vmware.com/topics/glossary/content/remote-work.html#:~:text=Remote%20work%20is%20the%20practice,corporate%20office%20building%20or%20campus.
+
+</p>
+
 ## II. Why Remote Work Tech can be considered disruptive ##
 
 ## III. Illustrate what the current situation of work is ##
