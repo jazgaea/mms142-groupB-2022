@@ -30,6 +30,15 @@ Remote work or Work-from-Home (WFH) is one of the immidiate responses of industr
 <br>
 This lean towards remote work is not only seen on the employees but on the side of the employers as well. The response to global pandemic has shown that hybrid work models are not necessarily a hindrance to productivity. Because of this, there is a general consensus that different WFH models will continue even after COVID-19. Employers see benefits to flexible working arrangements like positive results on employee wellness surveys, and reduction of the need for office space (Sava, 2022). 
 </p>
+<br>
+<p>
+Given the widespread job loss, some Filipino workers would be enticed by the idea of working from home. Afterall, the idea of skipping daily commutes would bring much convenience given how the country’s capital is globally the eighth worst city in hours spent in traffic (Valmonte, 2022). Aside from convenience and avoiding the risk of COVID-19, employees save their time and money by working from home.
+<br>
+Some workers are pushing against the return of complete full-time onsite job arrangements. Specifically, professionals in the Philippine IT and business process management (IT-BPM) industries are considering resignation if they are not offered location flexibility for their work or at least a hybrid work setup (Chau, 2022). One proposed hybrid work model is the 70:30 ratio for onsite and work-from-home respectively. This was proposed by the Advisory Council of Experts (ACE) with hopes of helping the country’s economic stability as everyone adjusts to the new normal (Chau, 2022). 
+<br>
+Furthermore, a particular type of remote labor that the Philippines workforce has turned to is freelancing. Unlike the hybrid model, this one is far more geographically flexible. In fact, recent surveys estimate that there are more than 1.5 million Filipino freelancers signed up in online global freelancing platforms (Abadilla, 2022). An additional benefit to the previously mentioned ones is the fact that those freelancing for overseas and local clients are earning 57% more hourly compare to those with only domestic clients (Piatos, 2022).
+</p>
+
 ## IV. Show how Remote Work Technologies disrupts the current situation ##
 <p>
 According to a 2022 AT&T study, the hybrid work model is expected to grow from 42% in 2021 to 81% in 2024. Companies have now realized that physical presence at the office full-time is not necessary to have great results. In fact, many companies including prominent brands such as Adobe and Spotify have already switched to hybrid and remote workplaces (Howington, 2022).
@@ -37,10 +46,15 @@ According to a 2022 AT&T study, the hybrid work model is expected to grow from 4
 ## V. Conclusion ##
 
 ## References ##
+Abadilla, E.V. (2022). 1.5M Filipinos now freelancing overseas. Manila Bulletin. Retrieved from https://mb.com.ph/2022/08/26/1-5m-filipinos-now-freelancing-overseas/
+Chau, C. (2022). 70:30 hybrid work model proposed in the Philippines. HRM Asia. Retrieved from https://hrmasia.com/7030-hybrid-work-model-proposed-in-the-philippines/
+Chau, C. (2022). The Philippines faces loss of IT talent if WFH scrapped. HRM Asia. Retrieved from https://hrmasia.com/the-philippines-faces-loss-of-it-talent-if-wfh-scrapped/
 Howington, J. (2022, May 17). Remote work statistics: Navigating the new normal | FlexJobs. FlexJobs Job Search Tips and Blog. https://www.flexjobs.com/blog/post/remote-work-statistics/
 International Labour Organization. (n.d.). COVID-19 and the world of work (COVID-19 and the world of work). https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm
 Organisation for Economic Co-operation and Development. (n.d.). The impact of COVID-19 on employment and jobs. OECD.org. https://www.oecd.org/employment/covid-19.htm
 Pereira, K. (2022, February 25). The future of work in all industries is a hybrid workforce. AT&T Business. https://www.business.att.com/learn/research-reports/is-corporate-america-ready-for-the-future-of-work.html
 Phillips, T. (2022, September 4). The ultimate list of remote work statistics in 2022. CodeSubmit. https://codesubmit.io/blog/remote-work-statistics/
+Piatos, T.C. (2022). PH freelancers earning 57% more per hour. The Manila Times. Retrieved from https://www.manilatimes.net/2022/08/27/business/top-business/ph-freelancers-earning-57-more-per-hour/1856143
+Valmonte, K. (2022). Manila is the world's 8th city with longest hours spent in traffic — study. The Philippine Star. Retrieved from https://www.philstar.com/business/2022/09/08/2208311/manila-worlds-8th-city-longest-hours-spent-traffic-study
 Sava, J. A. (2020, February 16). Remote work frequency before/after COVID-19 2020. Statista. https://www.statista.com/statistics/1122987/change-in-remote-work-trends-after-covid-in-usa/
 Statistics on remote workers that will surprise you (2022). (2022, December 2). Apollo Technical LLC.
