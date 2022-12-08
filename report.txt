@@ -49,6 +49,7 @@ According to a 2022 AT&T study, the hybrid work model is expected to grow from 4
 Abadilla, E.V. (2022). 1.5M Filipinos now freelancing overseas. Manila Bulletin. Retrieved from https://mb.com.ph/2022/08/26/1-5m-filipinos-now-freelancing-overseas/
 Chau, C. (2022). 70:30 hybrid work model proposed in the Philippines. HRM Asia. Retrieved from https://hrmasia.com/7030-hybrid-work-model-proposed-in-the-philippines/
 Chau, C. (2022). The Philippines faces loss of IT talent if WFH scrapped. HRM Asia. Retrieved from https://hrmasia.com/the-philippines-faces-loss-of-it-talent-if-wfh-scrapped/
+Chen, Z.(2021). Influence of Working From Home During the COVID-19 Crisis and HR Practitioner Response. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.710517/full 
 Howington, J. (2022, May 17). Remote work statistics: Navigating the new normal | FlexJobs. FlexJobs Job Search Tips and Blog. https://www.flexjobs.com/blog/post/remote-work-statistics/
 International Labour Organization. (n.d.). COVID-19 and the world of work (COVID-19 and the world of work). https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm
 Organisation for Economic Co-operation and Development. (n.d.). The impact of COVID-19 on employment and jobs. OECD.org. https://www.oecd.org/employment/covid-19.htm
@@ -58,4 +59,4 @@ Piatos, T.C. (2022). PH freelancers earning 57% more per hour. The Manila Times.
 Valmonte, K. (2022). Manila is the world's 8th city with longest hours spent in traffic — study. The Philippine Star. Retrieved from https://www.philstar.com/business/2022/09/08/2208311/manila-worlds-8th-city-longest-hours-spent-traffic-study
 Sava, J. A. (2020, February 16). Remote work frequency before/after COVID-19 2020. Statista. https://www.statista.com/statistics/1122987/change-in-remote-work-trends-after-covid-in-usa/
 Statistics on remote workers that will surprise you (2022). (2022, December 2). Apollo Technical LLC.
-Chen, Z.(2021). Influence of Working From Home During the COVID-19 Crisis and HR Practitioner Response. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.710517/full 
+
