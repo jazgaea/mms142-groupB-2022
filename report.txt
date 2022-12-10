@@ -6,6 +6,9 @@
 ahjgdhjasgdhjkgjk 
 asdjkhhhjahdjad sjahkgdksgdjgsc
 
+<!-- Kath -->
+Innovation is a necessity in businesses to thrive in this competitive and ever-changing digital age. In the context of innovation, The Innovator's Dilemma (Christensen 1997) divided innovation into two separate categories based on circumstances: sustaining and disruptive. In sustaining circumstances, the challenge is to create better commodities that can be offered at a higher price to suitable clients for profit. This is where disruptors enter. Disruptors often make a similar product but the challenge in disruptive innovation is to market a simpler, and affordable product that is cheaper and appeals to new consumers or unattractive customer set. This proves to surpass incumbents who innovate based on sustaining circumstances by effectively targeting the overlooked markets since sustaining innovators often concentrate on developing their products and services for their most demanding and therefore most profitable consumers only (Christensen, 2015). In this age of technology, disruptive innovations are appearing, and in the field of work, remote works is is one of them. 
+
 <!-- Reine -->
 <p>
 
@@ -50,6 +53,8 @@ Abadilla, E.V. (2022). 1.5M Filipinos now freelancing overseas. Manila Bulletin.
 Chau, C. (2022). 70:30 hybrid work model proposed in the Philippines. HRM Asia. Retrieved from https://hrmasia.com/7030-hybrid-work-model-proposed-in-the-philippines/
 Chau, C. (2022). The Philippines faces loss of IT talent if WFH scrapped. HRM Asia. Retrieved from https://hrmasia.com/the-philippines-faces-loss-of-it-talent-if-wfh-scrapped/
 Chen, Z.(2021). Influence of Working From Home During the COVID-19 Crisis and HR Practitioner Response. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.710517/full 
+Christensen, C. (2014). Disruptive Innovation. The Encyclopedia of Human-Computer Interaction, 2nd Ed. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
+Christensen, C. (2015). What Is Disruptive Innovation?. Harvard Business Review. https://hbr.org/2015/12/what-is-disruptive-innovation
 Howington, J. (2022, May 17). Remote work statistics: Navigating the new normal | FlexJobs. FlexJobs Job Search Tips and Blog. https://www.flexjobs.com/blog/post/remote-work-statistics/
 International Labour Organization. (n.d.). COVID-19 and the world of work (COVID-19 and the world of work). https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm
 Organisation for Economic Co-operation and Development. (n.d.). The impact of COVID-19 on employment and jobs. OECD.org. https://www.oecd.org/employment/covid-19.htm
