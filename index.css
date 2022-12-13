@@ -16,6 +16,8 @@ h2{
   font-size: large;
 }
 
+/* css to change specific sections */
+
 .header {
   background-color: #220140;
   color: white;
@@ -41,3 +43,5 @@ h2{
 .conclusion{
 
 }
+
+/*add divs as needed for the "aesthetic" :>>> */
