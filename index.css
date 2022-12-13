@@ -1,16 +1,43 @@
-body {
-  background-color: #F8F1EA;
-  margin: 0;
-}
-
-p {
-  color: white;
-  font-family: Comic Sans ;
-  font-size: ;
-}
-
-h1 {
-  color: white;
+body{
+  background-color:;
+  color:;
   font-family: ;
-  font-size: ;
+}
+
+p{
+  font-size:medium;
+}
+
+h1{
+  font-size: larger;
+}
+
+h2{
+  font-size: large;
+}
+
+.header {
+  background-color: #220140;
+  color: white;
+  padding: 10px;
+}
+
+.intro{
+
+}
+
+.second {
+
+}
+
+.third {
+
+}
+
+.fourth {
+
+}
+
+.conclusion{
+
 }
