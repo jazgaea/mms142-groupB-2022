@@ -45,6 +45,7 @@
  traditional office setting, workers are typically in close proximity with each other and can easily collaborate. With remote work,
  employees are often spread out across different time zones and locations, which can make it more difficult to collaborate.
  <br>
+ Remote work technology is also a disruptive influence because it makes it easier for businesses to hire employees around the globe. With traditional office work, firms are limited to hiring people who are in close proximity. Remote work eliminates these limitations, allowing companies to hire talented individuals regardless of location. Globalization is another major disruption that remote work brings about by making jobs accessible to previously marginalized workers who need them.
  Along with the many benefits of a remote workplace, there are still more obstacles that must be overcome in order to achieve a 
  positive and productive remote working environment.
  <br>
@@ -187,3 +188,4 @@ Sava, J. A. (2020, February 16). Remote work frequency before/after COVID-19 202
 Statistics on remote workers that will surprise you (2022). (2022, December 2). Apollo Technical LLC.
 What is remote work? | VMware Glossary. (2022, November 30). VMware. https://www.vmware.com/topics/glossary/content/remote-work.html#:~:text=Remote%20work%20is%20the%20practice,corporate%20office%20building%20or%20campus.
 Wrike. (n.d.). Remote work trends: What is the future of work after covid-19? Wrike. Retrieved December 11, 2022, from https://www.wrike.com/remote-work-guide/trends-and-future-of-remote-work/ 
+Dodd. (2021, January 22). Democratizing Opportunity, The Impact Of Remote Work On Globalization | VOXLACEA. Vox Lacea. https://vox.lacea.org/?q=blog/remote_work_globalization
