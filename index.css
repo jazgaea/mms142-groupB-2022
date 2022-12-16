@@ -143,10 +143,16 @@ img {
 }
 
 .third {
+
   margin: 40px;
   background: #e5958e;
   border-radius: 20px;
   padding: 50px;
+
+  padding: 30px;
+  background: #FDB095;
+  color: black;
+
 }
 
 .fourth {
@@ -161,6 +167,9 @@ img {
   margin: 40px;
   border-radius: 20px;
   padding: 50px;
+  padding: 30px;
+  background: #FFBA00;
+  color: black;
 
 }
 
