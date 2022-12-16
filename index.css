@@ -121,8 +121,8 @@ nav{
 
 .intro{
   padding: 30px;
-  background-image: url("intro bg.png");
-  opacity: 0.5;
+  background-color: #FDBA07;
+  color: black;
 }
 
 .second {
