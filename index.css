@@ -79,6 +79,7 @@ nav{
      color: #000000;
      font-size: xx-large;
      line-height: 50px;
+     padding: 10px 0px 20px 0px;
    }
    #Introduction{
      background: rgba(255, 255, 255, 0);
