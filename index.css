@@ -7,7 +7,7 @@
   }
 
 body{
-  background-color: #210440;
+  background-color: #2b1246;
   color:;
   font-family: 'IBM Plex Sans', sans-serif;
   letter-spacing: 0.05em;
@@ -17,7 +17,10 @@ body{
 
 p{
   font-size:large;
-  padding: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 h1{
@@ -43,7 +46,6 @@ nav{
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     z-index: 20;   
    }
-
    nav .navbar{
     display: flex;
     align-items: center;
@@ -53,30 +55,25 @@ nav{
     background: #210440;
     margin: auto;
    }
-
    nav .navbar .logo a{
      color: #FFBA00;
      font-size: 27px;
      font-weight: 600;
      text-decoration: none;
    }
-
    nav .navbar .menu{
      display: flex;
    }
-
    .navbar .menu li{
      list-style: none;
      margin: 0 15px;
    }
-
    .navbar .menu li a{
      color: #FFBA00;
      font-size: 17px;
      font-weight: 500;
      text-decoration: none;
    }
-
    section{
      display: flex;
      height: 50vh;
@@ -85,18 +82,16 @@ nav{
      color: #000000;
      font-size: xx-large;
      line-height: 50px;
+     padding: 10px 0px 20px 0px;
      margin-top: -130px;
      margin-bottom: -130px;
    }
-
    #Introduction{
      background: rgba(255, 255, 255, 0);
    }
-
    #Why{
      background: rgba(255, 255, 255, 0);
    }
-
    #Illustrate{
      background: rgba(255, 255, 255, 0);
    }
@@ -104,7 +99,6 @@ nav{
    #How{
      background: rgba(255, 255, 255, 0);
    }
-
    #Conclusion{
      background: rgba(255, 255, 255, 0);
    }
@@ -112,7 +106,8 @@ nav{
 .header {
   background-color: #210440;
   color: white;
-  padding: 30px;
+  padding: 10px;
+  border-radius: 40px;
 }
 
 .headerimg{
@@ -120,11 +115,14 @@ nav{
   width: 100%;
   height: 90%;
   margin: 0;
+  border-radius: 40px;
 }
 
 img {
   border-radius: 25px;
-  padding: 15px;
+  padding: 20px;
+  width: 80%;
+  height:fit-content;
 }
 
 .title{
@@ -141,48 +139,63 @@ img {
 .intro{
   background: #FDBA07;
   color: rgb(0, 0, 0);
-  margin: 40px;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   border-radius: 20px;
   padding: 50px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .second {
   background: #e5958e;
   color: rgb(0, 0, 0);
-  margin: 40px;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   border-radius: 20px;
   padding: 50px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .third {
-
-  margin: 40px;
-  background: #e5958e;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   border-radius: 20px;
   padding: 50px;
 
   padding: 30px;
   background: #FDB095;
   color: black;
-
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .fourth {
-  margin: 40px;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   background: #e5958e;
   border-radius: 20px;
   padding: 50px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .conclusion{
-  background: #e5958e;
-  margin: 40px;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   border-radius: 20px;
   padding: 50px;
   padding: 30px;
   background: #FFBA00;
   color: black;
-
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .ref{
@@ -191,6 +204,7 @@ img {
   color: white;
   font-size: small;
   column-count: 3;
+  justify-content: center;
 }
 
 /*add divs as needed for the "aesthetic" :>>> */
