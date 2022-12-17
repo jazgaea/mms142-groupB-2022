@@ -1,4 +1,4 @@
-<!-- this was the draft of our report -->
+<!-- this was the draft of our report, but most changes to the report can be found in the index.html file -->
 
 <h1> Remote Work Technologies: How they disrupt the current work environment <h1>
 
