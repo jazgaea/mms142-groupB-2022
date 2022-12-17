@@ -1,4 +1,4 @@
-<!-- this will be where we input our report!! :>> -->
+<!-- this was the draft of our report -->
 
 <h1> Remote Work Technologies: How they disrupt the current work environment <h1>
 
